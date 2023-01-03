@@ -1,3 +1,5 @@
+Patika.dev Proje link: https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje
+
 **MERGE SORT**
 
 [16,21,11,8,12,22] -> Merge Sort
